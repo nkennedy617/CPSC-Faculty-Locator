@@ -1,0 +1,15 @@
+C:\Users\Spike\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Spike\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Spike\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Spike\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Spike\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spike\Desktop\Programming Projects\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Spike\Desktop\Programming Projects\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Spike\Desktop\Programming Projects\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Spike\Desktop\Programming Projects\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Spike\Desktop\Programming Projects\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Faculty Locator\Faculty Locator v3\CPSC Faculty Locator\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
